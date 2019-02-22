@@ -50,7 +50,21 @@ body {
 	max-width: 600px;
 }
 
+#tribute-list li {
+	padding-top: 10px;
+}
+
+#tribute-info p {
+	font-weight: 600;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
 #tribute-link {
-	margin: 0 auto;
-	max-width: 600px;
+	text-decoration: none;
+}
+
+#tribute-link2 {
+	text-decoration: none;
 }
